@@ -13,6 +13,8 @@ The three categories of entities in this data set are:
 The second rating reflects how much riskier the car is than its asking price suggests. Cars are first given a risk factor symbol corresponding to their cost. The symbol is then modified by moving it up (or down) the scale if it is more (or less) dangerous. This is referred to as "symboling." An auto is hazardous if its value is +3, and presumably rather safe if it is -1.
 This data set includes information about cars that was taken from the 1985 Ward's Automotive Yearbook (Cars).
 
+### DATA SOURCE: https://www.kaggle.com/datasets/toramky/automobile-dataset
+
 ### DATA CLEANING
 Missing values
 In the automobile dataset, missing data is denoted with a question mark "?". We replace "?" with NaN (Not a Number) value, which is the default missing value marker.

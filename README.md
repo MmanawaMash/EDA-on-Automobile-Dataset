@@ -36,7 +36,7 @@ Replace by frequency:
 Drop some column:
 "price": 4 missing data, simply delete the whole row Reason: price is what we want to predict. Any data entry without price data cannot be used for prediction; therefore any row now without price data is not useful 
 
-### Conclusions 
+### CONCLUSIONS
 1. Toyota has more occurences in the dataset and Mercury has the least.
 2. he visualization shows that OHC has more occurences in the dataset and rotor has the least. OHC engines are a lot more preferred because it has more power than the other engine types in the database. OHC engines tend to be able to rev higher mostly due to the significantly lower valve train weight which makes for greatly improved valve control and higher potential RPM before float occurs. OHV engines have pushrods and relatively heavy rockers as opposed to OHC which does away with that.
 3.  Sedan has more occurences in the dataset than the other car types.
